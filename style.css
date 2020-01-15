@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+}
+
+.buttons {
+          display: flex;
+          flex: 1;
+          align-items: center;
+          justify-content: center;
+        }
+
+
+button {
+        font-family: fantasy;
+        border: 3px solid black;
+        border-radius: 8px;
+        margin: 10px;
+        font-size: 18px;
+        padding: 10px;
+        width: 100px;
+        text-align: center;
+        color: white;
+        background: grey;
+        text-shadow: 0 0 5px black;
+        }
+
+.pixels {
+  border: lightgray solid 0.5px;
+}
