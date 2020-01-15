@@ -39,7 +39,7 @@ function removeGrid() {
 }
 
 function createGrid(size) {
-    container.style.border = '3px solid black';
+    container.style.border = "3px solid black";
     container.style.width = "600px";
     container.style.height = "600px";
     container.style.display = "grid";
